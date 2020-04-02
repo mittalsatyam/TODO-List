@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+ .contact{
+    background-color: rgb(255, 81, 0);
+    display: flex;
+
+/*.delete-button{
+    display:flex;
+    width: 32%;
+}
+.delete-button img{
+    display:flex;
+    width: 62%;
+} 

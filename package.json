@@ -1,0 +1,15 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "contact list of some users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
